@@ -15,10 +15,16 @@ A React-based fitness tracking web app built as part of the **CodeAlpha App Deve
 
 
 ### New
+<img width="335" height="416" alt="image" src="https://github.com/user-attachments/assets/883c4553-dcd8-4c3b-adf8-93e2f52a3c94" />
+<img width="416" height="432" alt="image" src="https://github.com/user-attachments/assets/2f45f4a2-0917-4550-8cf1-c9fb9260f18a" />
+<img width="412" height="424" alt="image" src="https://github.com/user-attachments/assets/1b1f07c2-4e3e-4cdf-b8ac-c8f9e8ac7b6d" />
+
+
 
 <img width="1440" height="2938" alt="1" src="https://github.com/user-attachments/assets/d419af27-af17-471c-b7b7-c10467c246da" />
 <img width="1440" height="1830" alt="2" src="https://github.com/user-attachments/assets/08c48a29-46c1-4653-95a1-1e5346481927" />
 <img width="1440" height="1908" alt="3" src="https://github.com/user-attachments/assets/50bc02b5-be27-40e0-89c4-2064ead90ac5" />
+
 
 ## Features
 
