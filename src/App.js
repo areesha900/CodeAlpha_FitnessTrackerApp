@@ -78,11 +78,10 @@ function App() {
           <div className="header-left">
             <div className="header-icon-wrap">🏋️</div>
             <div>
-              <h1 className="app-title">FitTrack</h1>
+              <h1 className="app-title">Fitness Tracker</h1>
               <p className="app-subtitle">Track · Move · Improve</p>
             </div>
           </div>
-          <div className="header-badge">PRO</div>
         </header>
 
         <nav className="tab-bar">
