@@ -70,7 +70,7 @@ export default function Dashboard({ logs }) {
       <div className="stats-row">
         <div className="stat-card">
           <div className="stat-icon-wrap purple">⏱️</div>
-          <div className="stat-value">{totalDurationToday}<span style={{ fontSize: '0.85rem' }}>m</span></div>
+          <div className="stat-value">{totalDurationToday}<span style={{ fontSize: '0.85rem' }}> mins</span></div>
           <div className="stat-label">Active today</div>
         </div>
         <div className="stat-card">
@@ -80,7 +80,7 @@ export default function Dashboard({ logs }) {
         </div>
         <div className="stat-card">
           <div className="stat-icon-wrap orange">📅</div>
-          <div className="stat-value">{workoutsThisWeek}</div>
+          <div className="stat-value">{workoutsThisWeek}<span style={{ fontSize: '0.85rem' }}> workouts</span></div>
           <div className="stat-label">This week</div>
         </div>
       </div>
@@ -126,7 +126,7 @@ export default function Dashboard({ logs }) {
               <circle cx="55" cy="55" r={r} fill="none" stroke="#E8F5C8" strokeWidth="13" />
               <circle
                 cx="55" cy="55" r={r} fill="none"
-                stroke={pct >= 1 ? '#4A6741' : '#1A6B8A'}
+                stroke={pct >= 1 ? '#158311' : '#1A6B8A'}
                 strokeWidth="13"
                 strokeLinecap="round"
                 strokeDasharray={`${dash} ${circ - dash}`}
@@ -142,17 +142,26 @@ export default function Dashboard({ logs }) {
             </svg>
           </div>
           <div className="ring-legend">
-            <div className="legend-row">
+            <div className="legend-pill">
               <div className="legend-dot" style={{ background: '#1A6B8A' }} />
-              <span className="legend-text">Burned: <span className="legend-val">{totalCaloriesToday} kcal</span></span>
+              <div>
+                <div className="legend-pill-label">Burned</div>
+                <div className="legend-pill-val">{totalCaloriesToday} kcal</div>
+              </div>
             </div>
-            <div className="legend-row">
+            <div className="legend-pill">
               <div className="legend-dot" style={{ background: '#B8D8EC' }} />
-              <span className="legend-text">Goal: <span className="legend-val">{GOAL} kcal</span></span>
+              <div>
+                <div className="legend-pill-label">Goal</div>
+                <div className="legend-pill-val">{GOAL} kcal</div>
+              </div>
             </div>
-            <div className="legend-row">
+            <div className="legend-pill">
               <div className="legend-dot" style={{ background: '#7BBDD6' }} />
-              <span className="legend-text">Remaining: <span className="legend-val">{Math.max(0, GOAL - totalCaloriesToday)} kcal</span></span>
+              <div>
+                <div className="legend-pill-label">Remaining</div>
+                <div className="legend-pill-val">{Math.max(0, GOAL - totalCaloriesToday)} kcal</div>
+              </div>
             </div>
           </div>
         </div>

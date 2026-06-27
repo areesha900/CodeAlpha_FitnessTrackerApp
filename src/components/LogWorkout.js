@@ -106,7 +106,7 @@ export default function LogWorkout({ onAdd }) {
         </div>
 
         <div className="form-group">
-          <label className="form-label">Calories burned *</label>
+          <label className="form-label">Calories burned (kcal)*</label>
           <input
             type="number"
             className={`form-input${errors.calories ? ' error' : ''}`}
