@@ -7,13 +7,18 @@ A React-based fitness tracking web app built as part of the **CodeAlpha App Deve
 <img width="269" height="266" alt="Screenshot 2026-06-27 162327" src="https://github.com/user-attachments/assets/20ab612b-783d-4c2e-95f4-1905ef9b3551" />
 <img width="266" height="275" alt="Screenshot 2026-06-27 162346" src="https://github.com/user-attachments/assets/b6928d8a-5378-47b2-8564-fb3e8e80f460" />
 
-### updated
+### Updated
 
 <img width="365" height="422" alt="image" src="https://github.com/user-attachments/assets/5ec4cdaf-d313-41e6-973a-4819eac72477" />
 <img width="370" height="413" alt="image" src="https://github.com/user-attachments/assets/b4900639-b670-40a5-8e25-a65be755fa39" />
 <img width="371" height="407" alt="image" src="https://github.com/user-attachments/assets/0772cbad-217d-4c2f-a739-5c9ea78d24e0" />
 
 
+### New
+
+<img width="1440" height="2938" alt="1" src="https://github.com/user-attachments/assets/d419af27-af17-471c-b7b7-c10467c246da" />
+<img width="1440" height="1830" alt="2" src="https://github.com/user-attachments/assets/08c48a29-46c1-4653-95a1-1e5346481927" />
+<img width="1440" height="1908" alt="3" src="https://github.com/user-attachments/assets/50bc02b5-be27-40e0-89c4-2064ead90ac5" />
 
 ## Features
 
