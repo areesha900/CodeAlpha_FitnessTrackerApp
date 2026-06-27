@@ -7,6 +7,14 @@ A React-based fitness tracking web app built as part of the **CodeAlpha App Deve
 <img width="269" height="266" alt="Screenshot 2026-06-27 162327" src="https://github.com/user-attachments/assets/20ab612b-783d-4c2e-95f4-1905ef9b3551" />
 <img width="266" height="275" alt="Screenshot 2026-06-27 162346" src="https://github.com/user-attachments/assets/b6928d8a-5378-47b2-8564-fb3e8e80f460" />
 
+### updated
+
+<img width="365" height="422" alt="image" src="https://github.com/user-attachments/assets/5ec4cdaf-d313-41e6-973a-4819eac72477" />
+<img width="370" height="413" alt="image" src="https://github.com/user-attachments/assets/b4900639-b670-40a5-8e25-a65be755fa39" />
+<img width="371" height="407" alt="image" src="https://github.com/user-attachments/assets/0772cbad-217d-4c2f-a739-5c9ea78d24e0" />
+
+
+
 ## Features
 
 - **📊 Dashboard** — Today's summary (calories, duration, steps, weekly workouts), an animated 7-day calorie bar chart, a daily calorie goal ring, and recent workout list.
