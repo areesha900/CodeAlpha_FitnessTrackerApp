@@ -1,6 +1,6 @@
 # 🏋️ Fitness Tracker App
 
-A React-based fitness tracking web app built as part of the **CodeAlpha App Development Internship** (Task 2).
+A React-based fitness tracking web app built as part of the **CodeAlpha App Development Internship** (Task 3).
 
 ---
 
